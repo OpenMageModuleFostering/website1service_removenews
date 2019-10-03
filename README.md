@@ -1,3 +1,5 @@
+
+
 ## Original Package Description
 
 This extension allows you to delete the newsletter templates in your admin panel.
